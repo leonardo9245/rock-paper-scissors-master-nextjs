@@ -20,14 +20,13 @@ This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](h
 Users should be able to:
 
 - View the optimal layout for the game depending on their device's screen size
-- Play Rock, Paper, Scissors against the computer
-- **Bonus**: Play Rock, Paper, Scissors, Lizard, Spock against the computer _(optional)_
+- Play Rock, Paper, Scissors, Lizard, Spock against the computer
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/rock-paper-scissors-master-solution-b8hdLQt9IK](https://www.frontendmentor.io/solutions/rock-paper-scissors-master-solution-b8hdLQt9IK)
+- Live Site URL: [https://rock-paper-scissors-master-nextjs.vercel.app/](https://rock-paper-scissors-master-nextjs.vercel.app/)
 
 ## My process
 
@@ -42,20 +41,16 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+basic typing with typescript, some techniques using tailwind-css
 
 
 
-### Continued development
+### Continuous development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Using TypeScript is proving to be a challenge, I hope to improve it even further in the future
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@leonardo9245](https://www.frontendmentor.io/profile/leonardo9245)
 
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
