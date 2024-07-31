@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+
+}
+
+.Rock-color {
+  background: linear-gradient(hsl(349, 71%, 52%), hsl(349, 70%, 56%));
+}
+
+.Rock-pos {
+  grid-column: 3;
+  grid-row: 3;
+}
+
+
+.Paper-color {
+  background: linear-gradient(hsl(230, 89%, 62%), hsl(230, 89%, 65%));
+}
+
+.Paper-pos {
+  grid-column: 3;
+  grid-row: 2;
+  align-self: flex-start;
+  justify-self: end;
+}
+
+.Scissor-color {
+  background: linear-gradient(hsl(39, 89%, 49%), hsl(40, 84%, 53%));
+}
+
+.Scissor-pos {
+  grid-column: 2;
+  justify-self: center;
+  align-self: center;
+}
+
+.Lizard-color {
+  background: linear-gradient(hsl(261, 73%, 60%), hsl(261, 72%, 63%));
+}
+
+.Lizard-pos {
+  grid-column: 1;
+  grid-row: 3;
+  justify-self: flex-end;
+}
+
+.Spock-color{
+  background: linear-gradient(hsl(189, 59%, 53%), hsl(189, 58%, 57%));
+}
+
+.Spock-pos{
+  grid-column: 1;
+  grid-row: 2;
+  align-self: flex-start;
+}
+
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgba(20,21,57,1);
+  background: radial-gradient(circle at top, #1f3756 20%, #141539 100%) no-repeat;
+  max-height: 100vh;
+}
+
